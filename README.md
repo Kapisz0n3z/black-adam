@@ -1,0 +1,2 @@
+# black-adam
+fajna gierka
