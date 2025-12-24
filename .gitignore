@@ -1,0 +1,9 @@
+# Pliki Pythona tymczasowe
+__pycache__/
+*.pyc
+
+# Pliki wykonywalne
+*.exe
+
+# Inne pliki, których nie chcesz w repozytorium
+*.mp3
